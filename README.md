@@ -1,5 +1,7 @@
 # 🕌 Zikr - Islamic Remembrance Website
 
+https://63ashfaque.github.io/zikr/
+
 A modern, responsive web application for Islamic Dhikr (remembrance of Allah) with audio playback functionality.
 
 ## ✨ Features
