@@ -3,14 +3,14 @@ const zikrData = [
     {
         id: 1,
         arabic: "أَسْتَغْفِرُ اللَّهَ",
-        english: "I seek forgiveness from Allah",
+        english: "Astaghfirullah <br>Main Allah se maafi maangta hoon. Aage se aisa nahi karunga.",
         audioFile: "astaghfirullah.mp3",
         gradient: "linear-gradient(135deg, #667eea 0%, #764ba2 100%)"
     },
     {
         id: 2,
         arabic: "اللَّهُ أَكْبَر",
-        english: "Allah is the Greatest",
+        english: "Allahu Akbar <br>Allah hī sabse baḍā hai",
         audioFile: "allahu-akbar.mp3",
         gradient: "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)"
     },
