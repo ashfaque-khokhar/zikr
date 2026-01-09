@@ -1,6 +1,6 @@
 # 🕌 Zikr - Islamic Remembrance Website
 
-https://63ashfaque.github.io/zikr/
+[https://63ashfaque.github.io/zikr/](https://ashfaque-khokhar.github.io/zikr/)
 
 https://zikr.pages.dev/
 
